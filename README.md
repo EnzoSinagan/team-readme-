@@ -10,7 +10,7 @@ This repository is for our branching and merge conflict activity.
 | Eliza Solis | Student B | @[ektsolis30-pixel](https://github.com) |
 
 ## Contact
-Ask us questions through the Issues tab. Additionally, kindly contact @[emesinagan30@src.pshs.edu.ph](https://gmail.com) or @[ektsolis30@src.pshs.edu.ph](https://gmail.com) if you have further queries
+Ask us questions through the Issues tab.
 
 ## Learning Goals
 - Master **branching** workflows, pull requests, and clean commit habits in GitHub
